@@ -1,0 +1,33 @@
+.btn-white {
+  padding: 15px 25px;
+  font-size: 16px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  color: #E46D31;
+  background-color: #fff;
+  border-radius: 15px;
+  box-shadow: 0 2px rgb(194, 194, 194);
+}
+
+.btn-white:hover {
+  background-color: #c25621;
+  transition-duration: 0.4s;
+  color: white;
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+  color: #E46D31;
+}
+
+.list-inline {
+  list-style: none;
+  padding-left: 0px;
+}
+
+.button_icon {
+  color: #E46D31;
+  font-size: 1.3em;
+}
